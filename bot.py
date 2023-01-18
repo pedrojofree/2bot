@@ -4,6 +4,9 @@ import discord
 from discord.ext import commands
 from discord.utils import get
 
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
 bot = commands.Bot(command_prefix='<', description="uwu")
 
@@ -141,4 +144,4 @@ async def shiono(ctx):
 
  
  
-bot.run("OTY3MTUzMjY2MDM3MjM1NzMy.GidkEC.FGTFgbkZ2fF5SKc_MziM8LkpBZ0NrrL1HUOzjA")
+bot.run(os.getenv("TOKEN"))
