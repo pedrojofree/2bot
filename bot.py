@@ -135,6 +135,9 @@ async def shiono(ctx):
         'Pedro dice que si y dejate de joder.',
         'Nada que ver.',
         'Tu vieja.',
+        'Tu vieja por las dudas',
+        'A tu vieja le gusta eso',
+        'Eso preguntaba tu vieja anoche',
         'EN EL PUNTO GEEEEEEEEEEEEEEE.',
         'Si pero te recomiendo que no 🤓',
         'Yo diria que si, pero mi celular esta cargando.'
