@@ -65,7 +65,7 @@ async def saludo(ctx):
     if canal != "pepimaxy":
         response = f"Bom dia meu amor {canal}"
     elif canal == "Ghetto1982":
-        response = f"Hola esposa de mi creador."
+        response = f"Hola esposx de mi creador."
     else:
         response = f"Finisimo dia mi creador Pedrito... Alabada sea la tecnología por darme vida. 🙏"
     await ctx.send(response)
@@ -113,7 +113,8 @@ async def insulto(ctx):
         "chupóptero", 
         "zascandil", 
         "canalla",
-        "cagueta", 
+        "cagueta",
+        "puto",
         "cobarde", 
         "pusilánime", 
         "gallina", 
@@ -129,7 +130,7 @@ async def shiono(ctx):
     respuestas = [
         'Ni idea man, vofi.',
         'Te lo juro por Dieguito Maradona.',
-        'MUCHAAAAAAAAAACHOOOOOOOOOOOOO'
+        'MUCHAAAAAAAAAACHOOOOOOOOOOOOO',
         'Facha dice que no.',
         'A Julian le gusta eso.',
         'Pedro dice que si y dejate de joder.',
